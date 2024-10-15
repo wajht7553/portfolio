@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { personalData } from "@/utils/data/personal-data";
+import { personalData } from "/utils/data/personal-data";
 
 /**
  * AboutSection component renders the "About Me" section of the homepage.

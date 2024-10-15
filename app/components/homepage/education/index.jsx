@@ -2,7 +2,7 @@ import Image from "next/image";
 import GlowCard from "../../helper/glow-card";
 import { BsPersonWorkspace } from "react-icons/bs";
 import lottieFile from "/public/lottie/study.json";
-import { educations } from "@/utils/data/educations";
+import { educations } from "/utils/data/educations";
 import AnimationLottie from "../../helper/animation-lottie";
 
 

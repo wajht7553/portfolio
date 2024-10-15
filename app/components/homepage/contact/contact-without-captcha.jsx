@@ -3,7 +3,7 @@ import { useState } from "react";
 import emailjs from "emailjs-com";
 import { toast } from "react-toastify";
 import { TbMailForward } from "react-icons/tb";
-import { isValidEmail } from "@/utils/check-email";
+import { isValidEmail } from "/utils/check-email";
 
 /**
  * ContactWithoutCaptcha component renders a contact form without captcha verification.

@@ -5,7 +5,7 @@ import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
-import { personalData } from "@/utils/data/personal-data";
+import { personalData } from "/utils/data/personal-data";
 
 /**
  * HeroSection component renders the hero section of the homepage.
