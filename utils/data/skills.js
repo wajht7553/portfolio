@@ -6,6 +6,7 @@ export const skillsData = [
     'C++',
     'Docker',
     'Git',
+    'Numpy'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
